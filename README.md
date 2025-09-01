@@ -1,12 +1,27 @@
-# React + Vite
+# 🔐 Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Password Manager** web application built with **React** and **Tailwind CSS**.  
+This app allows users to securely store, view, and manage their passwords in an easy-to-use interface.  
+It is designed with **mobile-first responsiveness**, including a scrollable table for smaller screens.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ➕ Add new website credentials (Website, Username, Password)
+- 📋 Copy password with a single click
+- 👁️ Toggle password visibility (hide/show)
+- 🗑️ Delete saved credentials
+- 📱 Mobile-friendly design with horizontal scrollable table
+- 🎨 Styled using **Tailwind CSS** (modern & responsive UI)
+- 🎭 **Animated icons using [Lordicon](https://lordicon.com/)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend framework  
+- **Tailwind CSS** – Styling & responsive design  
+- **Lordicon** – Animated icons for better UI/UX  
+
+---
