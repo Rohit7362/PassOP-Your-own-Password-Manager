@@ -119,7 +119,7 @@ const Manager = () => {
                         </div>
                     </div>
 
-                    <button onClick={savePassword} className='flex justify-center items-center gap-2 bg-green-400 hover:bg-green-300 rounded-full px-6 py-1 w-fit border border-green-900'>
+                    <button onClick={savePassword} className='flex justify-center items-center gap-2 bg-green-400 hover:bg-green-300 rounded-full px-6 py-1 w-full sm:w-fit border border-green-900'>
                         <lord-icon
                             src="https://cdn.lordicon.com/jgnvfzqg.json"
                             trigger="hover" >
@@ -208,4 +208,5 @@ const Manager = () => {
 }
 
 export default Manager
+
 
