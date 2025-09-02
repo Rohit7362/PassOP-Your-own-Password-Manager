@@ -96,7 +96,7 @@ const Manager = () => {
     return (
         <>
             <ToastContainer />
-            <div className="md:container p-3 md:p-0 sm:py-15 lg:px-40 md:py-16 w-full md:mx-auto min-h-[84vh]">
+            <div className="md:container p-3 md:p-0 sm:py-15 lg:px-40 md:py-16 w-full md:mx-auto min-h-[85vh]">
                 <h1 className='font-bold text-2xl md:text-4xl text-center' >
                     <span className='text-green-500'>&lt;</span>
                     <span>Pass</span>
@@ -208,5 +208,6 @@ const Manager = () => {
 }
 
 export default Manager
+
 
 
